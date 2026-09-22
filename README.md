@@ -24,7 +24,7 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center"><img width="45%" src="https://github-readme-stats-one-gamma-10.vercel.app/api?username=ChenFu0604&show_icons=true&theme=radical&hide_border=true&count_private=true" /><img width="45%" src="https://github-readme-stats-one-gamma-10.vercel.app/api/top-langs/?username=ChenFu0604&layout=compact&theme=radical&hide_border=true&langs_count=8"/></div>
+<div align="center"><img width="45%" src="https://github-readme-stats-one-gamma-10.vercel.app/api?username=ChenFu0604&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=32" /><img width="45%" src="https://github-readme-stats-one-gamma-10.vercel.app/api/top-langs/?username=ChenFu0604&layout=compact&theme=radical&hide_border=true&langs_count=8"/></div>
 
 ---
 
