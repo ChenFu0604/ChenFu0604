@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 目前在做：XXX项目
-- 🌱 正在学习：Rust / Go
-- 💬 技术方向：Web安全、CTF、后端开发
-- 📫 联系方式：xxx@shturl.
-- ⚡ Fun fact: 喜欢打CTF竞赛
+- 🔭 目前在做：淮韵校园综合服务平台
+- 🌱 正在学习：Rust / Go 
+- 💬 技术方向：Web安全、CTF、后端开发、Spring Boot
+- 📫 联系方式：chenfu0429@qq.com.
+- ⚡ Fun fact: 喜欢打CTF竞赛  写项目.... Vibecoding
 
 ### 🛠 Tech Stack
 <div align="center">
