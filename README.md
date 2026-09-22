@@ -7,7 +7,7 @@
 ### 🧑‍💻 About Me
 - 🔭 Working on：**淮韵校园综合服务平台**
 - 🌱 Learning：Rust / Go
-- 💬 Tech interests：网络安全 | CTF | 全栈开发开发 | Spring Boot
+- 💬 Tech interests：网络安全 | CTF | 全栈开发 | 
 - 📫 Email：chenfu0429@qq.com
 - ⚡ Fun fact：CTF爱好者，热衷于项目开发 & Vibecoding
 
