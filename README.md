@@ -16,7 +16,7 @@
 ### 🛠 Tech Stack
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,javascript,vue,linux,mysql,redis,git,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,javascript,vue,linux,mysql,redis,git,docker&perline=11" />
 </a>
 </div>
 
