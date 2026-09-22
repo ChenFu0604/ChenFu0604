@@ -25,8 +25,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats-one-gamma-10.vercel.app/api?username=ChenFu0604&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img src="https://github-readme-stats-one-gamma-10.vercel.app/api/top-langs/?username=ChenFu0604&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats-one-gamma-10.vercel.app/api?username=ChenFu0604&show_icons=true&theme=radical&hide_border=true&count_private=true&width=400" />
+<img src="https://github-readme-stats-one-gamma-10.vercel.app/api/top-langs/?username=ChenFu0604&layout=compact&theme=radical&hide_border=true&langs_count=8&width=350"/>
 </div>
 
 ---
