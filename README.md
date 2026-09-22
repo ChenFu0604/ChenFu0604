@@ -49,8 +49,8 @@
 ---
 
 ### ✨ My Projects
-- [淮韵校园综合服务平台](https://github.com/ChenFu0604/xxx) - SpringBoot+Vue3 淮韵校园综合服务平台
-
+- [映作AI创作平台](https://ai.ichenfu.cn) - 映作AI创作平台
+- [淮韵校园综合服务平台](https://www.ichenfu.cn) - 淮韵校园综合服务平台
 ---
 
 ### 👁 Visitor Count
