@@ -40,15 +40,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChenFu0604/ChenFu0604/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChenFu0604/ChenFu0604/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/ChenFu0604/ChenFu0604/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ### ✨ My Projects
 - [映作AI创作平台](https://ai.ichenfu.cn) - 映作AI创作平台
 - [淮韵校园综合服务平台](https://www.ichenfu.cn) - 淮韵校园综合服务平台
