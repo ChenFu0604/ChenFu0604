@@ -55,6 +55,5 @@
 
 ### 👁 Visitor Count
 <div align="center">
-
-
+<img src="https://komarev.com/ghpvc/?username=ChenFu0604&label=Profile%20Views&color=blueviolet&style=flat-square" alt="visitor count" />
 </div>
