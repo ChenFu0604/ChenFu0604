@@ -26,8 +26,15 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ChenFu0604&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenFu0604&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ChenFu0604&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenFu0604&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ChenFu0604&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
 ---
