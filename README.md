@@ -8,7 +8,7 @@
 - 🔭 Working on：**淮韵校园综合服务平台**
 - 🌱 Learning：Rust / Go
 - 💬 Tech interests：全栈开发  | 网络安全
-- 📫 Email：chenfu0429@qq.com
+- 📫 Email：chenfu0429@163.com
 - ⚡ Fun fact：CTF爱好者，热衷于项目开发 & Vibecoding
 
 ---
