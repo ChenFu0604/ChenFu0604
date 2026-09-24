@@ -6,6 +6,7 @@
 
 ### 🧑‍💻 About Me
 - 🔭 Working on：**淮韵校园综合服务平台**
+- 🔭 Working on：**ExamPace学习平台**
 - 🌱 Learning：Rust / Go
 - 💬 Tech interests：全栈开发  | 网络安全
 - 📫 Email：chenfu0429@163.com
